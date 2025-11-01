@@ -1,6 +1,6 @@
 {
   "version": "2.0.1",
   "url": "https://github.com/TheNickoos/MultiXIVLauncher/releases/download/2.0.1/MultiXIVLauncher_v2.0.1.zip",
-  "sha256": "06e8d747732da2626003adf1987099defea988ae4817e0c6954cde67f92a339e",
+  "sha256": "135591409a74121483a0fa50f6e1eab2f8237113fc54a2efb3bfd9f7233d5779",
   "releaseNotes": "• Fixed a problem with button on MainWindow (XIVisup and mogstation)\r\n• Fixed a problem with PresetDownloadWindow not closing proprely\r\n• Removed unused button from debug version"
 }
