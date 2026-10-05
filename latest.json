@@ -1,6 +1,6 @@
 {
-  "version": "3.0.1",
-  "url": "https://github.com/TheNickoos/MultiXIVLauncher/releases/download/3.0.1/MultiXIVLauncher_v3.0.1.zip",
-  "sha256": "c5977360445203538be1b8ba06acaf82c7b12f755a36d8bdca519e66db3616e5",
-  "releaseNotes": "• Much lower disk usage (shared folders)\r\n• New Plugins tab: install plugins without launching the game\r\n• Per-group / per-character plugin lists and configurations\r\n• Command line: -launchcharacter / -launchgroup\r\n• New updater with integrity check and rollback"
+  "version": "3.0.2",
+  "url": "https://github.com/TheNickoos/MultiXIVLauncher/releases/download/3.0.2/MultiXIVLauncher_v3.0.2.zip",
+  "sha256": "0948774c3f0754b642ec0e5442eff98104e7fc4588303795b21c0e9a2c12c983",
+  "releaseNotes": "• **Plugin Collections no longer show plugins as "Not Installed"** after the plugin store was shared. Each collection's plugin IDs are now re-linked automatically at launch, matching by plugin name. The enabled/disabled state of every plugin is preserved.\r\n• `dalamudConfig.json` is only rewritten when something actually changed (a `.mxl.bak` backup is made first)."
 }
