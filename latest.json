@@ -1,6 +1,6 @@
 {
   "version": "2.0.1",
-  "url": "https://github.com/TheNickoos/MultiXIVLauncher/releases/download/2.0.1/MultiXIVLauncher_v2.0.1.zip",
-  "sha256": "135591409a74121483a0fa50f6e1eab2f8237113fc54a2efb3bfd9f7233d5779",
-  "releaseNotes": "• Fixed a problem with button on MainWindow (XIVisup and mogstation)\r\n• Fixed a problem with PresetDownloadWindow not closing proprely\r\n• Removed unused button from debug version"
+  "url": "https://github.com/TheNickoos/MultiXIVLauncher/releases/download/3.0.0/MultiXIVLauncher_v3.0.0.zip",
+  "sha256": "20e9c1f16ac0e20a169b890bbe8574b8e0ee2600dbbdc9ae1adcd2819d278e15",
+  "releaseNotes": "• Much lower disk usage (shared folders)\r\n• New Plugins tab: install plugins without launching the game\r\n• Per-group / per-character plugin lists and configurations\r\n• Command line: -launchcharacter / -launchgroup\r\n• New updater with integrity check and rollback"
 }
