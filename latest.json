@@ -2,5 +2,5 @@
   "version": "3.0.2",
   "url": "https://github.com/TheNickoos/MultiXIVLauncher/releases/download/3.0.2/MultiXIVLauncher_v3.0.2.zip",
   "sha256": "0948774c3f0754b642ec0e5442eff98104e7fc4588303795b21c0e9a2c12c983",
-  "releaseNotes": "• **Plugin Collections no longer show plugins as "Not Installed"** after the plugin store was shared. Each collection's plugin IDs are now re-linked automatically at launch, matching by plugin name. The enabled/disabled state of every plugin is preserved.\r\n• `dalamudConfig.json` is only rewritten when something actually changed (a `.mxl.bak` backup is made first)."
+  "releaseNotes": "• **Plugin Collections no longer show plugins as Not Installed** after the plugin store was shared. Each collection's plugin IDs are now re-linked automatically at launch, matching by plugin name. The enabled/disabled state of every plugin is preserved.\r\n• `dalamudConfig.json` is only rewritten when something actually changed (a `.mxl.bak` backup is made first)."
 }
